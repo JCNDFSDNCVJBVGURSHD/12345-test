@@ -7,7 +7,7 @@ float:left;
 list-style:none;
 color:white;
 position:fixed;
-background:black;
+background:coral;
 width:100%;
 margin-top:0px;
 top:0px;
@@ -70,6 +70,6 @@ padding-right:35px;
 {
     margin-bottom: 15px;
     margin-top: 15px;
-    color : white;
+    color : blue;
     font-size: 20px;
 }
